@@ -1,0 +1,8 @@
+<resources>
+    <string name="Аватар">WeatherTest</string>
+    <string name="Ясно">Ясно</string>
+    <string name="Облачная_погода">Облачная погода</string>
+    <string name="Пасмурная_погода">пасмурная погода</string>
+
+
+</resources>

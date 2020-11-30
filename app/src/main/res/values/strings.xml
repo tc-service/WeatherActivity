@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherTest</string>
+    <string name="sunny">Sunny</string>
+    <string name="cloud">Cloudy weather</string>
+    <string name="overcast">Overcast weather</string>
+    <string name="my_city">My City</string>
+</resources>
